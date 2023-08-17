@@ -1,10 +1,6 @@
-# ML ASSIGNMENT 2022
-## Team Name - 22M0760
+# Song Release Year Prediction using Neural Networks
 
-### Team Members :
-
-- 22M0760 : Sayan Surya Shaw
-- 22M0779 :  Niraj Jaiswal
-- 22M0781 :  Manas Gabani
-- 22M0803 : Suraj Munjani
-- 22M0806 : Manas Jhalani
+nn_1.py - base neural network implementation <br />
+nn_2.py - with hyper parameter tuning <br />
+nn_3.py - included feature selection <br />
+nn_classification - to classify labels <br />
